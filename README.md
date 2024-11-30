@@ -26,7 +26,7 @@ CarboCredit offers APIs to allow developers to integrate carbon credit trading f
 
 For API documentation and access, please visit [API Documentation](https://carbocredit.github.io/API-Docs/) (link to be added).
 
-To request API access, contact us at **support@carbocredit.com**.
+To request API access, contact us at **support@carbocredit.org**.
 
 ---
 
@@ -45,15 +45,15 @@ For detailed licensing terms, refer to the [LICENSE](LICENSE) file.
 
 ## Contribution Guidelines
 
-We welcome suggestions and ideas to improve CarboCredit. However, due to the private use license, contributions are subject to approval. To share your ideas, please email us at **support@carbocredit.com**.
+We welcome suggestions and ideas to improve CarboCredit. However, due to the private use license, contributions are subject to approval. To share your ideas, please email us at **support@carbocredit.org**.
 
 ---
 
 ## Contact
 
 For inquiries and support, reach us at:
-- **Email**: support@carbocredit.com
-- **Website**: [CarboCredit](https://www.carbocredit.com)
+- **Email**: support@carbocredit.org
+- **Website**: [CarboCredit](https://www.carbocredit.org)
 
 ---
 
