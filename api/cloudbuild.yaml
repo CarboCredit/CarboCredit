@@ -1,0 +1,16 @@
+steps:
+  - name: 'node:14'
+    entrypoint: 'npm'
+    args: ['install']
+
+  - name: 'node:14'
+    entrypoint: 'npm'
+    args: ['run', 'build']
+
+  - name: 'gcr.io/cloud-builders/gcloud'
+    args: ['app', 'deploy']
+
+substitutions:
+  _NODE_VERSION: '14'
+
+timeout: '1600s'

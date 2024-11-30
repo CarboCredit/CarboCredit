@@ -1,0 +1,13 @@
+runtime: nodejs14
+env: standard
+
+handlers:
+  - url: /.*
+    script: auto
+
+# Optional: you can specify an entrypoint if your app doesn't start with the default 'npm start'
+entrypoint: node idk.js
+
+# Optional: you can specify environment variables
+env_variables:
+  MONGODB_URI: mongodb+srv://khansokan1234:1910phlox@cluster0.aviwp.mongodb.net/CarboCredit
