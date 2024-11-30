@@ -26,7 +26,7 @@ CarboCredit offers APIs to allow developers to integrate carbon credit trading f
 
 For API documentation and access, please visit [API Documentation](https://carbocredit.github.io/API-Docs/) (link to be added).
 
-To request API access, contact us at **api@carbocredit.com**.
+To request API access, contact us at **support@carbocredit.com**.
 
 ---
 
